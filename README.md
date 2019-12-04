@@ -22,5 +22,6 @@ initial_grid = [
     0 0 0 0 0 0 0 0 0;
     0 0 0 0 0 0 0 3 0;
 ]
-
 ```
+
+This initial matrix can be modified and replaced with any matrix and my notebook file will solve the sudoku.
