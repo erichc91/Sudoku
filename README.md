@@ -7,7 +7,7 @@ Sudoku as an Integer Linear Program written in Julia 1.1.0
 * GLPK package
 
 ## Usage
-The intent of this code uses the integer programming method to solve the Sudoku model as a feasibility problem. This eliminates clunky code and unneccaasary loops and a syntax that can get technically heavy fast.
+The intent of this code uses the integer programming method to solve the Sudoku model as a feasibility problem. This eliminates clunky code and unneceessary loops and a syntax that can get technically heavy fast.
 Additionally the advantage of this code is eliminating the use of multiple packages that change independently and relies heavily on julia's list comprehension to create the constraints.
 
 ```julia
